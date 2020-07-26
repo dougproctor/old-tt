@@ -528,6 +528,21 @@ div {
 }
 
 
+// Image - Tiny TALK
+
+img {
+  max-width: 100$;
+  height: auto;
+}
+
+.ttimage {
+  width: 80px;
+  min-height: 80px;
+  max-height: auto;
+  float: none;
+  margin: 3px;
+  padding: 3px;
+}
 // Photo creds
 
 .photo-creds {
